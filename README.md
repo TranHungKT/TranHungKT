@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Tran Hung. I am a Full-Stack Software engineer, my primary skill is JavaScript. For most of the projects, I use React Native and ReactJs for FE development and Nodejs + Mongoose for BE development. <br/>
+My name is Tran Hung. I am a Full-Stack Software engineer, my primary skill is JavaScript. For most of the projects, I use React Native and ReactJs for FE development and Java Spring Boot + PostgreQL for BE development. <br/>
 High Responsibility and Deep Passion for Programming.
 ## 📫 How to reach me: 
 
